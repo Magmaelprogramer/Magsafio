@@ -2,7 +2,7 @@
     "name": "RetoMag-Launcher",
     "preductname": "RetoMag Launcher",
     "version": "1.3.3",
-    "description": "Launcher RetoMag",
+    "description": "RetoMag Launcher",
     "main": "src/app.js",
     "author": "Magma",
     "url": "https://magmaprogramer.000webhostapp.com/datos/",
