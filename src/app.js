@@ -75,7 +75,7 @@ ipcMain.on('new-status-discord', async () => {
                     large_text: 'Texto de la Imagen',
                 },
                 buttons: [
-                    { label: 'Boton', url: "https://example.com/" },
+                    {label: 'boton', url: "https://example.com/"},
                 ],
                 instance: false,
                 timestamps: {
@@ -101,7 +101,7 @@ ipcMain.on('new-status-discord-jugando', async (event, status) => {
                     large_text: 'Texto de la Imagen',
                 },
                 buttons: [
-                    { label: 'Boton', url: "https://example.com/" },
+                    {label: 'boton', url: "https://example.com/"},
                 ],
                 instance: false,
                 timestamps: {
@@ -126,7 +126,7 @@ ipcMain.on('delete-and-new-status-discord', async () => {
                     large_text: 'Texto de la Imagen',
                 },
                 buttons: [
-                    { label: 'Boton', url: "https://example.com/" },
+                    {label: 'boton', url: "https://example.com/"},
                 ],
                 instance: false,
                 timestamps: {
